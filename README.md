@@ -17,4 +17,4 @@
 
 ## 🌐 Contacto
 - [LinkedIn](linkedin.com/in/mariosfdez)
-- [Email](mariosfdez@gmail.com)
+
