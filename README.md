@@ -15,6 +15,15 @@
 - Busco oportunidades que me permitan explorar y profundizar en tecnologías avanzadas, con el fin de aportar innovación, eficiencia y seguridad.
 - Contribuir de manera significativa y tangible al crecimiento y éxito de un equipo tecnológico.
 
+## 📂 Proyecto Final de ASIR
+## Optimización y Automatización de Infraestructuras Cloud: Un enfoque práctico en Azure con Terraform y Ansible
+
+- Este proyecto demuestra cómo la infraestructura como código (IaC) con Terraform y la automatización de la configuración con Ansible pueden simplificar y mejorar la gestión de infraestructuras en la nube de Microsoft Azure. 
+
+- Consiste en la creación de dos máquinas virtuales (VM) que alojan servidores Nginx con un módulo de geolocalización GeoIP. La infraestructura también incluye herramientas para la visualización y análisis de datos de geolocalización como Promtail, Loki y Grafana, y un Azure Load Balancer para garantizar la alta disponibilidad de los servidores.
+
+- **Enlace al Repositorio:** [Ver Proyecto](https://github.com/MarioSFdez/AzureCloudAutomation.git)
+
 ## 🌐 Contacto
 - [LinkedIn](linkedin.com/in/mariosfdez)
 
