@@ -25,5 +25,7 @@ Dedicated to optimizing and scaling systems, I bring innovative problem-solving 
 ![image](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 
 ## 🌐 Connect with me
+Always open to new challenges and professional opportunities. Let’s collaborate and grow together! Feel free to reach out on LinkedIn or explore my projects on GitHub.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mariosfdez)
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?logo=github&style=flat-square)](https://github.com/mariosfdez)
